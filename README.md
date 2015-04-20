@@ -1,0 +1,2 @@
+# afrify
+Afrify Jekyll blog
