@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Arbetsdag 3 – Hushåll 4"
+date: 2012-07-09 23:27:43
+---
+Framsteg vänner! För första gången på resan hade vi alarmet ställt på klockan 7. Tack vare detta kunde vi hinna med två hushåll på förmiddagen och att ha eftermiddagen ledig för inhandling av mer material. <!--more-->
+
+Telefonalarmet ringde klockan 7 och vi samlades vid frukostbordet en aning efter det. Till frukost bjöds vi på det vanliga: brödskivor, stekta ägg, papaya och egengjord juice. Efter frukosten packade vi pickupen i vanlig ordning. Det som inte var i vanlig ordning i morse vad temperaturen. Jag och Fredrik gick tillbaka in i huset och hämtade en varsin tjocktröja medan Erik inte tyckte att han behövde någon. Han satte sig inuti bilen för att slippa de kalla vindarna under resan mot det första hushållet. Precis som alla andra hushåll låg detta en bit utanför stan.
+
+Dagens första hushåll låg relativt nära vårt hus och på vägen till ett av de tidigare hushållen. Med Justin och Judith i bilen förväntade vi oss att dagens arbete skulle gå relativt fort. Med olika arbetsuppgifter fördelat inom gruppen skulle arbetet flyta på bättre. Justin sa igår att han var intresserad av alla lära sig alla steg för att kunna installera en solpanel själv, ett väldigt bra initiativ. Våra planer är att låta Justin och Justice vara med på olika områden vid varje hushåll med ett mål att de tillslut ska kunna installera ett system på egen hand.
+
+Medan jag började fylla på batterisyra förberedde Erik och Fredrik solcellregulatorn till batteriet. Tidigare har vi gjort dessa förberedelser hemma innan vi besökt hushållen. Detta tar ungefär 10 minuter att färdigställa. Justice fick låna kameran och är med för att lära sig. Justin går in till familjen och frågar var de vill ha lampor och strömbrytare. Vi hittar sedan att lämpligt ställa för solpanelen och ställer batteriet relativt nära och skyddat i ett hörn.
+
+Det gäller att planera ett hushåll smart för att spara in på material, såsom kabel. Helst vill man ha alla komponenter så nära varandra som möjligt. Ibland blir detta en svårighet då vissa vägger är så pass höga att lampan har lite för dåligt spridning för att täcka flera rum. Då gäller det att tänka om och hitta lämpliga takstolar att vira kabeln i. I och med att väggarna oftast är gjorde av lera gör dem instabla och en dålig plats att sätta strömbrytaren på. Helst vill man sätta den i någon sorts trälist, till exempel en dörrlist.
+
+Erik skruvar upp strömbrytaren medan Fredrik drar kablar i taket. Justice fick vara med och dra kabel från en lampa till strömbrytaren. Lamporna kopplades till strömbrytaren och vidare till batteriet dit även solpanelen är kopplad. Det är viktigt att batteriet står stadigt på grund av batterisyran. Efter sista skruven skruvats in i locket på strömbrytar testas knapparna. Vid varje hushåll har vi märkt att de tänds inte direkt första gången man testar. Det är någon slags fördröjning, men efter några knapptryckningar fungerar allt som det ska. Vi ropar in familjer och visar lamporna och mobilladdaren. Alla ler, främst barnen. Frun i huset tackar så mycket och vi alla skakar hennes hand. "Asante sana", säger hon, det betyder "Tack så mycket" på svenska. Barnen tog stegen och gick med den till nästan hus. Det var bara ett stenkast därifrån.

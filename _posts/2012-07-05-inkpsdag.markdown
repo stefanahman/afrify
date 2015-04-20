@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Inköpsdag"
+date: 2012-07-05 18:49:04
+---
+Första övernattningen i huset gick bra. Det finns en kille här med några hundar som hjälper till med lite allt möjligt. Han vaktar även huset om natten, vilket gör att det känns tryggt att sova. Vi har även en kockerska som lagar all mat åt oss. Det var meningen att hon skulle göra frukost till oss klockan 09:00 men det hade blivit något missförstånd. Detta ledde till att vi åkte ner till stan och åt frukost tillsammans med Justin. Vi fick en skål med färsk frukost var. Den bestod av annanas, banan och melon som låg i en fruktig saft. Till detta serverades kaffe och te. <!--more-->
+
+Eftersom vi är här nere för att enbart arbeta med solenergi har vi fått en kockerska som lagar maten åt oss. Det kommer annars att ta för mycket tid om vi ska åka och handla för att sedan laga maten. Vi vet heller inte vilken mat som vi kan äta, så hjälp med inköpen är att rekommendera. I och med missförstådet med "Mamma mat", som kockerskan kallas, var vi först tvugna att själva handla in mat för den första veckan. Justin hjälpte oss med det efter frukosten. Det kan vara bra att ha med sig någon person som vet hur man ska förhandla. Om vi tre skulle handla mat på egen hand skulle nog vi få betala en hel del i överpris.
+
+Justin tog oss först till en supermarket där vi kunde handla konserver, juice och andra saker som inte finns på marknaden. På marknaden finns det mesta så som: grönsaker, frukt, kött och mer där till. Marknaden i Bukoba går inte att jämföra med en "vanlig" marknad som finns i storstäder. Det är svårt att beskriva, men intensiteten var otroligt hög. Folk satt överallt på marken och rensade grönsaker, ljudnivån var hög och det var som en labyrint att ta sig fram. Men på något sätt kändes det mer genuint att handla här, kanske för att det skördas på plats. Det var en otrolig upplevelse att vistas där inne. Alla råvaror låg i snyggt staplade högar. På grund av dålig internet-uppkoppling kommer inga bilder att kunna publiceras för tillfället. Detta hoppas vi kunna åtgärda.
+
+Efter en timmes tid på marknaden begav vi oss hemmåt för att lämna maten till "Mamma mat" som skulle tillaga vår middag. Efter detta var det dags för de tekniska inköpen. Följande stod på inköpslistan:
+<ul>
+  <li>Solcellspaneler (10 st)</li>
+  <li>Bilbatterier (10 st)</li>
+  <li>Batterisyraflaskor (20 st)</li>
+  <li>Strömbrytare, dubbelknapp (10 st)</li>
+</ul>
+… (lite längre ner på listan)
+<ul>
+  <li>Kalsonger till Erik (5 st)</li>
+</ul>
+Det finns ett antal olika solcellstyper, en del är större och ger mer effekt andra mindre och ger lägre Watt. Vi åkte runt till ett par affärer och jämförde både priser och cell-typer. Vi avslutade shopping-turen hos en gammal vän där inköpen har skett förut. Han som driver butik heter "Abbas" och vet vad vi vill ha när vi kommer. Han berättar och visar lite vad han har köpt in sen sist. LED-lampor har blivit mycket populära på senare tid. Det känns lite som om de tidigare besöken har givit inspiration till befolkningen i Bukoba. Vi diskuterade med varandra och med honom vilka paneler som passar oss bäst och hur många lampor varje hushåll skulle ha. Vi lämnade affären med:
+<ul>
+  <li>6 st. solcellspaneler, 14 W</li>
+  <li>10 st. Solbatterier, 12 V - 24/26 Ah</li>
+  <li>20 st. batterisyraflaskor, 1 liter</li>
+  <li>10 st. strömbrytare, dubbelknapp</li>
+</ul>
+Energiberäkning
+
+Systemet som installeras till varje familj:
+
+Laddas batteriet i 12 timmar med solenergi, kommer 3 lampor kunna lysa i 12 timmar.
+
+Just nu sitter vi och förberer för morogndagens utflykt. Vi planerar att hinna med ungefär 2 hushåll per dag. Vi sitter och monterar LED-lampor, solregulatorer och batterier. Förr har det skett när vi varit ute, men hemma finns det bättre tillgång till verktyg, bättre arbetsytor och lugnare atmosfär.
+
+Erik har även fått 5 par kalsonger.
+
+Over and out!

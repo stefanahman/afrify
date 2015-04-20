@@ -1,0 +1,11 @@
+# Site settings
+title: Afrify
+email: stefan.ahman@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Här kan man skriva en beskrivning
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://afrify.se" # the base hostname & protocol for your site
+twitter_username: afrifyngo
+
+# Build settings
+markdown: kramdown

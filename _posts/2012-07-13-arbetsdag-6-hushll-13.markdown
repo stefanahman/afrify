@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Arbetsdag 6 – Hushåll 13"
+date: 2012-07-13 14:00:34
+---
+Gårdagens nästa hushåll var bara ett stegkast iväg från det förra, det var till och med gångavstånd. Judtih följde såklart med till nästa hem. Även många av barnen sprang med oss till nästa hushåll för att följa vårt arbete. <!--more-->
+
+Det här hushållet bestod av fyra personer varav en tonårsmamma med sin son som var dryga året gammal. Känslorna är väldigt delade då det är fint av dem att vilja skaffa barn och ta hand om dem under uppväxten. Men att få barn vid en sådan tidig ålder, dryga 20 år, är lite oroväckande. Min personliga åsikt är att vid 20 års ålder umgås med sina kompisar. För barnets skull inte starta en ny familj i ett redan resurs-fattigt område. För att förbättra deras levnadssituation var vi där att för att installera ljus, den här familjen behövde det mer än något. Hennes barn var otroligt gulligt och jag tog en hel bildserie på honom.
+
+Det här huset testade vi en annan strategi. Först måste batteriet fyllas på, det gjorde Justice. Men sedan gjorde vi först klart arbetet inomhus, dvs. sätta upp lampor, dra kablar och förbereda för batteriet. Huset bestod av två rum och en lampa sattes upp i vardera rum. Alla kablar drogs klart innan solpanelen sattes upp. Panelen skruvades upp på baksidan av huset och den här gången drogs kabeln ner genom taket vid takstolen. Det var för trångt för att få inte stegen i huset och därför försökte oss på ett antal akrobatiska handlingar istället. Genom att sitta på varandras axlar var det precis att vi kunde nå kabeln från taket. Strömbrytaren var uppskruvad på dörrlisten på dörren mellan rummen och alla kablar från lamporna drogs dit samt en kabel från batteriet. Erik kopplade in strömbrytarna och Justice kom in med batteriet som bubblat klart. Knapparna testades och lamporna fungerande 'lysande'.
+
+Installationen gick riktigt fort och skulle bli den sista för dagen. Det kändes bra att ge ljus till en sådan behövande familj. Den unga mamman kom fram och tackade oss så oerhört mycket. Alla barnen utanför pekade in i huset mot de lysande lamporna, skrattandes och klappa händerna. De sa att det inte kan sätta ord på hur mycket det här betydde för dem och kunna få ljus på kvällarna och nätterna. Som vanligt sa vi att vi bara är glada för att hjälpa till. Vi är här för att hjälpa speciellt utvalda familjer.
+
+När jag tog fram kameran och fotade familjen, visade jag bilderna för barnen och de skrattade när de såg sig själva på bilderna. Detta ledde till en hysteri bland barnen som ville vara med på flera bilder. Att fota barn är bland det bästa jag vet och hade ingenting emot att fylla upp minneskortet med ett dussintal bilder på barn. En kille använde kartongen till solpanelen som någon slags förklädnad. När vi åkte därifrån  sprang de efter picken och vinkade av oss.
