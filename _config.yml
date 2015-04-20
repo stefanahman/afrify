@@ -9,4 +9,6 @@ twitter_username: afrifyngo
 
 # Build settings
 markdown: kramdown
-exclude:  [ Gemfile, Gemfile.lock, Procfile, Rakefile, config.ru, vendor ]
+permalink: pretty
+gems: ['kramdown']
+exclude: ['Gemfile', 'Gemfile.lock', 'vendor', 'Procfile']
