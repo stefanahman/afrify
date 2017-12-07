@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.2.1'
+ruby '2.4.1'
 
 gem 'jekyll'
-gem 'octopress', '~> 3.0.0.rc'
-gem 'heroku'
+gem 'octopress'
