@@ -1,6 +1,4 @@
 source 'https://rubygems.org'
 
-ruby '2.4.1'
-
-gem 'jekyll'
-gem 'octopress'
+gem 'jekyll', '~> 4.0'
+gem 'octopress', '~> 3.0'
