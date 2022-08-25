@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="home">
-  <h1 class="page-heading">Inlägg</h1>
+  <h1 class="post-list-heading">Inlägg</h1>
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
